@@ -547,8 +547,6 @@ int main(void)
 	AddItem(cave, 1, 4, "treasure");
 	AddItem(cave, 4, 5, "player");
 
-	printf("ENGGEN131 - C Project 2022\n");
-	printf("                          ... presents ...\n");
 	printf("______   _____  _     _        ______  _______  ______\n");
 	printf("|_____] |     | |     | |      |     \\ |______ |_____/\n");
 	printf("|_____] |_____| |_____| |_____ |_____/ |______ |    \\_\n");
